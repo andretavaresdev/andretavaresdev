@@ -1,4 +1,4 @@
-# 🌎 Eu sou o André, seja muito bem vindo!
+# 🌎 Eu sou o André, seja muito bem vindo(a)!
 ## 🚀 Atualmente estou estudando e criando projetos com:
 
   <ul>
