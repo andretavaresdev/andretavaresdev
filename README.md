@@ -1,4 +1,7 @@
 # 🌎 Eu sou o André, seja muito bem vindo(a)!
+
+Este é o meu espaço virtual, onde divido meus projetos, descobertas e experiências. Fique à vontade para navegar e colaborar!
+
 ## 🚀 Atualmente estou estudando e criando projetos com:
 
   <ul>
