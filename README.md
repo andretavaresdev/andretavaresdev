@@ -2,13 +2,11 @@
 
 Este é o meu espaço virtual, onde divido meus projetos, descobertas e experiências. Fique à vontade para navegar e colaborar!
 
-## 🚀 Atualmente estou estudando e criando projetos com:
+## 🚀 Atualmente estou estudando e trabalhando em projetos com:
 
   <ul>
-      <li><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="70" alt="HTML5"></li>
-      <li><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="70" alt="CSS3"></li>
-      <li><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="70" alt="JavaScript"></li>
-      <li><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></li>
+      <li><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" width="70" alt="SQL"></li>
+      <li><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" width="70" alt="C#"></li>
   </ul>
 
 <table>
