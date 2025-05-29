@@ -7,6 +7,7 @@ Este é o meu espaço virtual, onde divido meus projetos, descobertas e experiê
   <ul>
       <li><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" width="100" alt="SQL"></li>
       <li><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" width="40" alt="Python"></li>
+      <li><img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" width="40" alt="Power BI")</li>
   </ul>
 
 <table>
