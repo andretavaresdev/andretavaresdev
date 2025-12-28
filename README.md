@@ -10,12 +10,6 @@ Este é o meu espaço virtual, onde divido meus projetos, descobertas e experiê
       <li><img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" width="50" alt="Power BI")</li>
   </ul>
 
-<table>
-  <a href="https://github.com/andretavaresdev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andretavaresdev&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true"/>
-  <br>
-</table>
-
 <div> 
   <a href = "mailto: andreetavaress1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andre-tavares1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
