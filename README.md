@@ -4,7 +4,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Profissional em transição de carreira para a área de **Análise de Dados**, apaixonado por transformar dados brutos em insights estratégicos que geram valor. Este é o meu espaço virtual, onde compartilho projetos, descobertas e minha jornada de aprendizado contínuo.
+**Analista de Dados** apaixonado por transformar dados brutos em insights estratégicos que geram valor. Este é o meu espaço virtual, onde compartilho projetos, descobertas e minha jornada de aprendizado contínuo.
 
 🎯 **Objetivo:** Utilizar dados para resolver problemas reais e apoiar decisões de negócio baseadas em evidências.
 
