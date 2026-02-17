@@ -15,7 +15,7 @@
 - 📊 **[Análise de Churn](https://github.com/andretavaresdev/churn-analysis-dashboard):** Análise de churn e retenção com foco em UX/UI e decisões de negócio.
 
 ### 📈 Minhas Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andretavaresdev&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=andretavaresdev&show_icons=true&theme=radical)
 
 ### 📫 Vamos nos conectar?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-tavares1/)
